@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 -->
 
 - 🤔 I’m currently studying towards getting my Masters degree in Computing
-- 🔭 I also currently looking for a Placement opportunity for my Masters degree program.
+- 🔭 I also currently looking for a Placement opportunity in Software development for my Masters degree program.
 - 🌱 I’m always learning React
-- 💬 Ask me about Nigerian and Ghana Jollof
+- 💬 Ask me about Nigerian and Ghanaian Jollof
 - 📫 How to reach me: [mabrouk__a](https://twitter.com/Mabrouk__a)
 - 😄 Pronouns: He/Him
 <!-- - ⚡ Fun fact: I enjoy watching Call of duty on Youtube -->
