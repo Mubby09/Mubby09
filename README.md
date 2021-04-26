@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Nigerian and Ghanaian Jollof
 - 📫 How to reach me: [mabrouk__a](https://twitter.com/Mabrouk__a)
 - 😄 Pronouns: He/Him
-<!-- - ⚡ Fun fact: I enjoy watching Call of duty on Youtube -->
+<!-- - ⚡ Fun fact: -->
 
