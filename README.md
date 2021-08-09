@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - 🌱 I'm always learning React
 - 💬 Ask me about Nigerian and Ghanaian Jollof
 - 📫 How to reach me: [mabrouk__a](https://twitter.com/Mabrouk__a)
-- 😊Pronouns: He/Him
+- 😊 Pronouns: He/Him
 <!-- - ⚡ Fun fact: -->
 
