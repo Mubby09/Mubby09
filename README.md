@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 - 🤔 I am currently studying towards getting my Masters degree in Computing
-- 🔭 I'm also currently looking for a Placement opportunity in Software development for my Masters degree program.
 - 🌱 I'm always learning React
 - 💬 Ask me about Nigerian and Ghanaian Jollof
 - 📫 How to reach me: [mabrouk__a](https://twitter.com/Mabrouk__a)
