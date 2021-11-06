@@ -2,7 +2,7 @@
 - [Website](https://mubarakakinsola.netlify.app/)
 - [Twitter](https://twitter.com/Mabrouk__a)
  
-I am a Computing Msc student who has a high level of passion for technology. Driven by my goals, I am open and capable of learning new technologies on the job because of my experience with a wide range of technologies. I began learning how Code during my time studying computer science at undergraduate level with The Standard HTML, CSS, Javascript. Software development has been A career path I have become very passionate about, so I bring enthusiasm and commitment to learning that comes with dedicating yourself to a goal.
+I am a Frontend developer who has a high level of passion for technology. Driven by my goals, I am open and capable of learning new technologies on the job because of my experience with a wide range of technologies. I began learning how Code during my time studying computer science at undergraduate level with The Standard HTML, CSS, Javascript. Software development has been A career path I have become very passionate about, so I bring enthusiasm and commitment to learning that comes with dedicating yourself to a goal.
 
 <!--
 📫 How to reach me: 
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🤔 I am currently studying towards getting my Masters degree in Computing
+- 🤔 I recently just completed my Masters degree in Computing
 - 🌱 I'm always learning React
 - 💬 Ask me about Nigerian and Ghanaian Jollof
 - 📫 How to reach me: [mabrouk__a](https://twitter.com/Mabrouk__a)
